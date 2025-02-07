@@ -1,0 +1,18 @@
+# Ignore Unity auto-generated files
+Library/
+Logs/
+Temp/
+obj/
+.vsconfig
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+*.pidb
+
+# Ignore Build folders
+Builds/
+
+./vs

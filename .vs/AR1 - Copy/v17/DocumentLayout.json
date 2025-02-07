@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shreya Khanna\\AR1 - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D917266-1CEA-C544-B810-FBF5D48D3013}|Assembly-CSharp.csproj|c:\\users\\shreya khanna\\ar1 - copy\\assets\\scripts\\furnitureplacementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D917266-1CEA-C544-B810-FBF5D48D3013}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\furnitureplacementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D917266-1CEA-C544-B810-FBF5D48D3013}|Assembly-CSharp.csproj|C:\\Users\\Shreya Khanna\\AR1 - Copy\\assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D917266-1CEA-C544-B810-FBF5D48D3013}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D917266-1CEA-C544-B810-FBF5D48D3013}|Assembly-CSharp.csproj|C:\\Users\\Shreya Khanna\\AR1 - Copy\\assets\\scripts\\firebaseauthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D917266-1CEA-C544-B810-FBF5D48D3013}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\firebaseauthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D917266-1CEA-C544-B810-FBF5D48D3013}|Assembly-CSharp.csproj|C:\\Users\\Shreya Khanna\\AR1 - Copy\\assets\\scripts\\firebaseinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D917266-1CEA-C544-B810-FBF5D48D3013}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\firebaseinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FurniturePlacementManager.cs",
+              "DocumentMoniker": "C:\\Users\\Shreya Khanna\\AR1 - Copy\\Assets\\Scripts\\FurniturePlacementManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FurniturePlacementManager.cs",
+              "ToolTip": "C:\\Users\\Shreya Khanna\\AR1 - Copy\\Assets\\Scripts\\FurniturePlacementManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FurniturePlacementManager.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAuwKUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T03:22:48.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FirebaseAuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\Shreya Khanna\\AR1 - Copy\\Assets\\Scripts\\FirebaseAuthManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FirebaseAuthManager.cs",
+              "ToolTip": "C:\\Users\\Shreya Khanna\\AR1 - Copy\\Assets\\Scripts\\FirebaseAuthManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FirebaseAuthManager.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAuwNAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T18:54:33.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FirebaseINIT.cs",
+              "DocumentMoniker": "C:\\Users\\Shreya Khanna\\AR1 - Copy\\Assets\\Scripts\\FirebaseINIT.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FirebaseINIT.cs",
+              "ToolTip": "C:\\Users\\Shreya Khanna\\AR1 - Copy\\Assets\\Scripts\\FirebaseINIT.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FirebaseINIT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T11:00:31.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\Shreya Khanna\\AR1 - Copy\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuManager.cs",
+              "ToolTip": "C:\\Users\\Shreya Khanna\\AR1 - Copy\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T12:08:49.86Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

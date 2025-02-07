@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "110598892348",
+    "firebase_url": "https://visiarise-72e39-default-rtdb.firebaseio.com",
+    "project_id": "visiarise-72e39",
+    "storage_bucket": "visiarise-72e39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110598892348:android:62f33ec9e132756c030c39",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.VisiariseProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110598892348-kv6aalj5kng3lkff4vptvlnip3bj6qbt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DefaultCompany.VisiariseProject",
+            "certificate_hash": "543b3de9da31793980dc9b5ccecb1f88b6e4e95f"
+          }
+        },
+        {
+          "client_id": "110598892348-5uaoqdgl06hid3u2filjv2mjpsl56ado.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmBjyIxT1_6rJOL0-JBxagZuWIw4dPzIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110598892348-5uaoqdgl06hid3u2filjv2mjpsl56ado.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110598892348:android:b7a3d401a3c40dbb030c39",
+        "android_client_info": {
+          "package_name": "com.VisiArise.visiArise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110598892348-5uaoqdgl06hid3u2filjv2mjpsl56ado.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmBjyIxT1_6rJOL0-JBxagZuWIw4dPzIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110598892348-5uaoqdgl06hid3u2filjv2mjpsl56ado.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

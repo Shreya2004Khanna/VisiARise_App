@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/tunnelscene.unity
+    guid: da06201e13d7a96439d13cb5f75bf615
+  - enabled: 0
+    path: Assets/firebaseINIT_scene.unity
+    guid: aeccc016b921a234f81531f67268fb0d
+  - enabled: 0
+    path: Assets/signup_scene.unity
+    guid: b6ddac2a40ee2e24b9808e28862c6d2b
+  - enabled: 0
+    path: Assets/signindetail_scene.unity
+    guid: 59f1582be736b2a4bb8040ee562ceb87
+  - enabled: 0
+    path: Assets/register_scene.unity
+    guid: cf0b63f78f4a54040ba241954895eeae
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 8ca74227c1a835641b2e216297948158
+  - enabled: 1
+    path: Assets/about_scene.unity
+    guid: 95173787bb9c1e743a74c34f8395cc0a
+  - enabled: 1
+    path: Assets/choice_scene.unity
+    guid: fe7e86f3e6203624f803908384092418
+  - enabled: 1
+    path: Assets/furniture_choice.unity
+    guid: 42e048da9c815f54bbc5f665ea6b2cde
+  - enabled: 1
+    path: Assets/homedecor_scene.unity
+    guid: 997159c9e7fe6824cbf8c4502c38ec8c
+  - enabled: 1
+    path: Assets/arbook_scene.unity
+    guid: bf728b404b241fb4197e0a183052c0bc
+  - enabled: 1
+    path: Assets/buisnesscard_choices.unity
+    guid: 03857a88af398324383e72284fac0d67
+  - enabled: 1
+    path: Assets/automobile_choice.unity
+    guid: 770219890b768e04fbe36692533c0c08
+  - enabled: 1
+    path: Assets/electronics_choice.unity
+    guid: 2f4870a917d6f6d4fa8f9831bca0a42b
+  - enabled: 1
+    path: Assets/comming_soon_scene.unity
+    guid: 79559a70505555141b0c4e8c3524b810
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/menu2scene.unity
+    guid: fb1897530ed80444eae54256474cd88c
+  - enabled: 0
+    path: Assets/menu3scene.unity
+    guid: b12ca1b365614974f8d4ab293b5bbe05
+  - enabled: 0
+    path: Assets/menu4scene.unity
+    guid: d87974d2ec35c624d99ea24ef2d5fca7
+  - enabled: 0
+    path: Assets/car_sample.unity
+    guid: 7460e17688edf274db95784aa2d58bc1
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 560171ca9c8de8b42b09395ca1c5f057, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: dc79255d988d25d4a86c59c16cba3982, type: 2}
